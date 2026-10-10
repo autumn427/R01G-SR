@@ -1,0 +1,18 @@
+{
+  "src/__init__.py": "d1cf75681a78172bc9315d4cd8204fc42a6674b1536d0f0d020285848d19265f",
+  "src/analyze_pair_oracle.py": "2400556a5aac1fda272c12f48658946efde130f14837a0aeadf6109a0ae6a39a",
+  "src/analyze_selector_diagnostics.py": "9f20d67cc17790efdf9b5cf886644a67abb9f5129c7b73091eb1baca9e09f5e3",
+  "src/analyze_train_routes.py": "467f726edd31b972d0a331a96c04b35127415bf39d763892f0dba96d2cbbbdec",
+  "src/apply_grouped_selector.py": "23beebbb15223deb04da96b989a566b218e8646800d504aa583703387bda9561",
+  "src/build_selector_metadata.py": "0cd5a71ef7430d359a70df415b88f3c26347a5f22c89cccde00d093598a2467a",
+  "src/data.py": "32d8710dab0d34dbf35481edf3ba92e6515e9583c98c686c5faa11094772c957",
+  "src/llm.py": "5386592e87cdeeaf2a33613d148c6974a4e51b3be792b5693fa93d0e009a97b5",
+  "src/methods.py": "5b7cc082a6049e59273b3177d5c50c272d3587b6552d10029cddd3cf5086beab",
+  "src/official_score.py": "20d8cda741359d7a81b8c86717f900a0c92ced6f6b26fa3b33ec831facdc208a",
+  "src/postprocess_outputs.py": "6de7685b33a940408f7361eb10d23453aa609ebf53405ecab5ea9e008b33546c",
+  "src/prepare_submission.py": "250524527ab446123cb25f9e8d012a00a7121761a937b503bb60d5e68aee8d33",
+  "src/repair_section_ownership.py": "d4384efb19fa2e37c3f1ca7a3a15805f59d4b351403d24f67b474ef9022bda33",
+  "src/run.py": "37cca6de6f1a18b1583a8606de7a999ce6343c74bbe35952aab0b2b53f6ae1d5",
+  "src/selector_features.py": "105fa7c553a318def4895a6bff4873dcb838b045d97312b4b9163c60d15fd39c",
+  "src/train_grouped_selector.py": "503361bbf1006140f369a14292f3e285a47e4fc818cbbf7c9ea5e5667791119b"
+}
